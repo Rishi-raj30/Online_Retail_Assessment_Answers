@@ -56,9 +56,6 @@ Customer 12346 was a one-time customer but generated £77,183.60 from one order,
 - `Online_Retail_Assessment_Answers.xlsx` — Q1–Q7, Q10, KPI and analysis tables.
 - `analysis.py` — reproducible Python workflow.
 - `Management_Presentation_Online_Retail.pptx` — 7-slide management presentation.
-- PNG files — recommended dashboard visualizations.
-
-
 
 ## AI Disclosure
 ChatGPT was used for dataset understanding, analytical brainstorming, Python support, debugging, documentation and visualization planning. All important calculations were independently checked against the uploaded raw data before being used.
