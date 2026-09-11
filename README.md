@@ -58,14 +58,7 @@ Customer 12346 was a one-time customer but generated £77,183.60 from one order,
 - `Management_Presentation_Online_Retail.pptx` — 7-slide management presentation.
 - PNG files — recommended dashboard visualizations.
 
-## Looker Studio
-Upload `Processed_Data.csv` to Google Sheets, then connect that Google Sheet as a Looker Studio data source. Recommended dashboard:
-- KPI cards: Revenue, Customers, Orders, Average Order Value, Repeat Revenue %
-- Monthly Revenue Trend
-- Revenue by Country
-- Top 10 Products by Revenue
-- Repeat vs One-time Revenue
-- Filters: Year, Month, Country, Customer Segment
+
 
 ## AI Disclosure
 ChatGPT was used for dataset understanding, analytical brainstorming, Python support, debugging, documentation and visualization planning. All important calculations were independently checked against the uploaded raw data before being used.
